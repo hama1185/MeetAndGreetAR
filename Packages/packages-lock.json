@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.copocopo.textmeshpro.animator": {
+      "version": "https://github.com/coposuke/TextMeshProAnimator.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.textmeshpro": "2.0.1"
+      },
+      "hash": "aa579c237e0bbcf025e8d6bc962252e1e4ac9d8f"
+    },
     "com.easyar.sense": {
       "version": "file:C:/Users/hamat/Downloads/EasyARSenseUnityPlugin_4.3.0-1931.fb511f99/com.easyar.sense-4.3.0-1931.fb511f99.tgz",
       "depth": 0,
