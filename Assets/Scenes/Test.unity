@@ -459,7 +459,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1949775762591570, guid: 40be5343836efc449af67e54876afb62, type: 3}
       propertyPath: m_Name
-      value: ImageTarget-namecard
+      value: ImageTarget-meimei
       objectReference: {fileID: 0}
     - target: {fileID: 1949775762591570, guid: 40be5343836efc449af67e54876afb62, type: 3}
       propertyPath: m_IsActive
